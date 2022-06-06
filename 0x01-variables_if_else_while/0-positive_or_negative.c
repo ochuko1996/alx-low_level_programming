@@ -8,12 +8,12 @@
 
 
 
-/* betty style doc for function main goes there */
+
 /**
  * Main - Main Block
  * Description: Get a Random number and print the number
  * and if it is positive, negative and zero
- * Then Return (0)
+ * Return: 0
  */
 int main(void)
 
