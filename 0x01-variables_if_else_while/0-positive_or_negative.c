@@ -9,8 +9,8 @@
 
 
 
-/**
- * Main - Main Block
+/*
+ * main - Main Block
  * Description: Get a Random number and print the number
  * and if it is positive, negative and zero
  * Return: 0
